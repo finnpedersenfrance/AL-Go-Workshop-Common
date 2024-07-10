@@ -9,7 +9,6 @@ This workshop shows you how to take advantage of the functionality, which is pro
 https://github.com/microsoft/AL-Go/blob/main/Workshop/Dependencies2.md
 
 
-
 - [X] Introduction - Introduction to GitHub, AL-Go for GitHub, personal and organizational accounts.
 - [X] Prerequisites - Setup pre-requisites for the Workshop.
 - [X] Get started - Get started by creating your first AL-Go for GitHub repository.
@@ -25,12 +24,15 @@ https://github.com/microsoft/AL-Go/blob/main/Workshop/Dependencies2.md
 - [ ] Automated Tests - Add automated testing to your project.
 - [ ] Scheduled test runs - Testing your app against the latest (and future Business Central versions) daily or weekly.
 - [ ] Performance Testing - FUTURE TOPIC: Add performance tests to your daily test runs.
-- [ ] Reference Documentation Generation - Keep your reference documentation up-to-date.
+- [X] Reference Documentation Generation - Keep your reference documentation up-to-date.
 - [ ] Delevelopment Environments - FUTURE TOPIC: How to setup a development environment for a project.
 - [ ] The Development Process - FUTURE TOPIC: The recommended way to work with feature branches, pull requests, code reviews and branch protection rules.
 - [ ] Keeping your Repository Up-to-date - FUTURE TOPIC: Updating AL-Go for GitHub to the latest version by running a workflow.
 
 
+## Documentation for finnpedersenfrance/AL-Go-Workshop-Common
+
+[Generated Reference Documentation](https://finnpedersenfrance.github.io/AL-Go-Workshop-Common/)
 
 
 ## AL-Go Per Tenant Extension Template
